@@ -1,0 +1,11 @@
+Package: GHE
+Version: 1.00
+Date:  August 15 2014
+Title: GHE
+Author: Rasmus E. Benestad <rasmus.benestad@physics.org>
+Maintainer: Rasmus E. Benestad <rasmus.benestad@physics.org>
+Depends: R (>= 2.10.1)
+Description: Plots figures for climate analysis
+License: GPL (>= 2)
+URL: http://www.r-project.org http://cran.r-project.org
+ZipData: no 
